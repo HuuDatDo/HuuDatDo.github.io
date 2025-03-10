@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: |+
-  Undergraduate Student at <a href="https://vinuni.edu.vn/">VinUniversity</a><br><br>
+  Undergraduate Student at <a href="https://vinuni.edu.vn/">VinUniversity</a><br>
   Intern at <a href="https://ami.kaist.ac.kr/">Advanced Machine Intelligence Lab (AMI Lab.) @ KAIST</a> <br><br>
 
 profile:

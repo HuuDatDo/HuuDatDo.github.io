@@ -31,7 +31,7 @@ I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), workin
 
 
 📩 Contact: <a href="mailto:22dat.dh@vinuni.edu.vn" target="_blank" rel="noopener noreferrer">22dat.dh[at]vinuni.edu.vn</a><br>
-<a href="https://scholar.google.com/citations?user=QSV452QAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=Se_fNmoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>&nbsp;&nbsp;
 
 
 **My research** focuses on understanding and reconstructing intelligence through computational methods. Specifically:

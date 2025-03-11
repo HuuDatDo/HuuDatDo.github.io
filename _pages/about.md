@@ -27,9 +27,9 @@ latest_posts:
 ---
 
 
-I am an undergraduate student at VinUniversity, working closely with Professor Wray Buntine and Professor Laurent El Ghaoui. I had the opportunity to intern at the Advanced Machine Intelligence Lab (AMI Lab) at KAIST under the supervision of Professor Tae Hyun Oh and collaborated with Professor Minsu Cho from POSTECH. Additionally, I am conducting research with Professor Luu Anh Tuan at NTU.
+I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), working closely with [Professor Wray Buntine](https://bayesian-models.org/) and [Professor Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/). I had the opportunity to intern at the [Advanced Machine Intelligence Lab (AMI Lab) at KAIST](https://ami.kaist.ac.kr/) under the supervision of [Professor Tae Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh) and collaborated with [Professor Minsu Cho](https://cvlab.postech.ac.kr/~mcho/) from POSTECH. Additionally, I am conducting research with [Professor Luu Anh Tuan](https://tuanluu.github.io/index.html) at NTU.  
 
-My research focuses on understanding and reconstructing intelligence through computational methods. I am also passionate about applying AI to tackle global challenges in climate change, physics, economics, and medical science.
+**My research** focuses on understanding and reconstructing intelligence through computational methods. I am also passionate about applying AI to tackle global challenges in climate change, physics, economics, and medical science.
 
 <!-- **My research** focuses on addressing the questions that emerge from achieving compositionality in both understanding and generation of AI systems: -->
 

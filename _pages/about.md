@@ -29,11 +29,18 @@ latest_posts:
 
 I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), working closely with [Professor Wray Buntine](https://bayesian-models.org/) and [Professor Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/). I had the opportunity to intern at the [Advanced Machine Intelligence Lab (AMI Lab) at KAIST](https://ami.kaist.ac.kr/) under the supervision of [Professor Tae Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh) and collaborated with [Professor Minsu Cho](https://cvlab.postech.ac.kr/~mcho/) from POSTECH. Additionally, I am conducting research with [Professor Luu Anh Tuan](https://tuanluu.github.io/index.html) at NTU.  
 
-**My research** focuses on understanding and reconstructing intelligence through computational methods. I am also passionate about applying AI to tackle global challenges in climate change, physics, economics, and medical science. Specifically:
+
+📩 Contact: <a href="mailto:22dat.dh@vinuni.edu.vn" target="_blank" rel="noopener noreferrer">22dat.dh[at]vinuni.edu.vn</a><br>
+<a href="https://scholar.google.com/citations?user=QSV452QAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>&nbsp;&nbsp;
+
+
+**My research** focuses on understanding and reconstructing intelligence through computational methods. Specifically:
 
 <!-- **My research** focuses on addressing the questions that emerge from achieving compositionality in both understanding and generation of AI systems: -->
 
 
-<li> Compositional understanding: Humans understand the world with different modalities (language, vision, sound, touch, etc) in a compositional, synchronous manner. Can we build AI systems that can learn compositional, generalizable representations across different modal domains and perform many novel and complex tasks?</li>
-<li> Compositional generation: Imagination and reasoning play a vital role in human-level intelligence. How can we develop AI systems that faithfully generate novel data in “imagination” and use it as mental simulation engines supporting understanding, learning, reasoning, and even complex generation itself?</li>
-<li> Efficient ML: The human brain operates on an extremely low power supply and learns from data much more efficiently. Can we incorporate other natural priors such as symmetries, equivariance, and iterative inference into the AI system to learn more efficiently and still be scalable?</li>
+ - **Compositional understanding:** Humans understand the world with different modalities (language, vision, sound, touch, etc) in a compositional, synchronous manner. Can we build AI systems that can learn compositional, generalizable representations across different modal domains and perform many novel and complex tasks?
+ - **Compositional generation:** Imagination and reasoning play a vital role in human-level intelligence. How can we develop AI systems that faithfully generate novel data in “imagination” and use it as mental simulation engines supporting understanding, learning, reasoning, and even complex generation itself?
+ - **Efficient ML:** The human brain operates on an extremely low power supply and learns from data much more efficiently. Can we incorporate other natural priors such as symmetries, equivariance, and iterative inference into the AI system to learn more efficiently and still be scalable?
+
+ I am also passionate about applying AI to tackle global challenges in robotics, physics, economics, climate change, and medical science. 

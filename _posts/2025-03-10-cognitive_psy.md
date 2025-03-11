@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Random thoughts on Cognitive Psychology & Artificial Intelligence
-date: 2025-03-11 16:40:16
+date: 2025-03-10 16:40:16
 description: What did I learn in Cognitive Psychology course :)
 tags: AI cognitive
 categories: random

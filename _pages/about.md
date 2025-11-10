@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: |+
   Undergraduate Student at <a href="https://vinuni.edu.vn/">VinUniversity</a><br>
-  Intern at <a href="https://ami.kaist.ac.kr/">Advanced Machine Intelligence Lab (AMI Lab.) @ KAIST</a> <br>
+  Intern at <a href="https://www.cogai4sci.com/">CogAI4Sci @ NUS</a> <br>
 
 profile:
   image: prof_pic.jpg
@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 
-I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), working closely with [Professor Wray Buntine](https://bayesian-models.org/) and [Professor Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/). I had the opportunity to intern at the [Advanced Machine Intelligence Lab (AMI Lab) at KAIST](https://ami.kaist.ac.kr/) under the supervision of [Professor Tae Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh) and collaborated with [Professor Minsu Cho](https://cvlab.postech.ac.kr/~mcho/) from POSTECH. Additionally, I am conducting research with [Professor Luu Anh Tuan](https://tuanluu.github.io/index.html) at NTU.  
+I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), working closely with [Professor Wray Buntine](https://bayesian-models.org/) and [Professor Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/). I'm working as research intern under [Professor Dianbo Liu](https://www.cogai4sci.com/index.html). I had the opportunity to intern at the [Advanced Machine Intelligence Lab (AMI Lab) at KAIST](https://ami.kaist.ac.kr/) under the supervision of [Professor Tae Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh) and collaborated with [Professor Minsu Cho](https://cvlab.postech.ac.kr/~mcho/) from POSTECH. Additionally, I am conducting research with [Professor Luu Anh Tuan](https://tuanluu.github.io/index.html) at NTU.  
 
 
 📩 Contact: <a href="mailto:22dat.dh@vinuni.edu.vn" target="_blank" rel="noopener noreferrer">22dat.dh[at]vinuni.edu.vn</a><br>

@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-random-thoughts-on-cognitive-psychology-amp-artificial-intelligence",
+            },{id: "post-the-game-of-language",
+      
+        title: "The game of Language",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/game_of_language/";
+        
+      },
+    },{id: "post-random-thoughts-on-cognitive-psychology-amp-artificial-intelligence",
       
         title: "Random thoughts on Cognitive Psychology &amp; Artificial Intelligence",
       

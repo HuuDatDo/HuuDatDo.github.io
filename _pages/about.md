@@ -40,7 +40,7 @@ I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), workin
 Scientists estimate there are about 8.7 million species on Earth, and only 1 species (us) possess superior intelligence over other 8.7 millions, and I want to **understand** why intelligence emerge through:
 
  - **Vision:** The evolution of complex vision systems is widely considered a primary catalyst for the Cambrian explosion of species. How can we computationally reconstruct the vision system - a system that intuitively understand low-level concepts (color, shape, etc) to high-level concepts (temporal, spatial, physics, analogies)?
- - **Language:** Only humans have many effective communicative language that none of other species have (coinincident? I don't think so). Language has to play a vital role in intelligence, as a cause or maybe as a consequence of intelligence. How does language emerge from communication and interaction?
+ - **Language:** Only humans have many effective communicative language that none of other species have (coincidence? I don't think so). Language has to play a vital role in intelligence, as a cause or maybe as a consequence of intelligence. How does language emerge from communication and interaction?
  - **Optimization:** Evolution simply is optimization?
 
  <!-- I am also passionate about applying AI to tackle global challenges in robotics, physics, economics, climate change, and medical science.  -->

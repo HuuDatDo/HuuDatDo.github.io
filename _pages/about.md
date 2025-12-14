@@ -41,6 +41,7 @@ I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), workin
  - **Efficient ML:** The human brain operates on an extremely low power supply and learns from data much more efficiently. Can we incorporate other natural priors such as symmetries, equivariance, and iterative inference into the AI system to learn more efficiently and still be scalable?
 
  I am also passionate about applying AI to tackle global challenges in robotics, physics, economics, climate change, and medical science. 
+ 
 <!-- Scientists estimate there are about 8.7 million species on Earth, and only 1 species (us) possess superior intelligence over other 8.7 millions, and I want to **understand** why intelligence emerge through:
 
  - **Vision:** The evolution of complex vision systems is widely considered a primary catalyst for the Cambrian explosion of species. How can we computationally reconstruct the vision system - a system that intuitively understand low-level concepts (color, shape, etc) to high-level concepts (temporal, spatial, physics, analogies)?

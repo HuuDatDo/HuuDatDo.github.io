@@ -34,8 +34,9 @@ I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), workin
 
 <br/><br/>
 
-I’m driven by a simple question: **How does intelligence emerge, and how can we reconstruct it computationally?** Vision and language seem especially central—complex vision is widely considered a key catalyst for the Cambrian explosion, and only humans have many effective communicative language that none of other species have (coincidence? I don’t think so). More broadly, evolution (and learning) can be viewed as optimization under constraints. Concretely, my research focuses on:
+I’m driven by a simple question: **How does intelligence emerge, and how can we reconstruct it computationally?** Vision and language seem especially central—complex vision is widely considered a key catalyst for the Cambrian explosion, and only humans have many effective communicative language that none of other species have. More broadly, evolution (and learning) can be viewed as optimization under constraints. Concretely, my research focuses on:
 
 - **Compositionality**: How can systems learn hierarchical, compositional representations that connect low-level visual concepts to high-level abstractions, and further compose across modalities in a synchronous manner?
-- **Grounding**: How can we build agents that acquire language by being grounded in perception, action, and shared goals — rather than treating language as disembodied text?
-- **Optimization**: Can intelligence be understood as compression-driven optimization that yields emergent compositional structure, and can we realize this in learning systems via iterative inference to achieve more data- and compute-efficient generalization?
+- **Grounding**: How can we build agents that acquire language by being grounded in perception, communication, shared goals, and pluralistic values, rather than treating language as disembodied text?
+- **Optimization**: Can intelligence be understood as lossless compression that yields emergent sparse compositional structure, and can we formalize compositional sparsity to make learning and generalization more efficient?
+- **Creativity**: The ultimate capability of intelligence—emerging at the intersection of compositionality, grounding, and optimization.

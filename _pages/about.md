@@ -32,6 +32,7 @@ I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), workin
 📩 Contact: <a href="mailto:22dat.dh@vinuni.edu.vn" target="_blank" rel="noopener noreferrer">22dat.dh[at]vinuni.edu.vn</a><br>
 <a href="https://scholar.google.com/citations?user=Se_fNmoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>&nbsp;&nbsp;
 
+<br/><br/>
 
 I’m driven by a simple question: **How does intelligence emerge, and how can we reconstruct it computationally?** Vision and language seem especially central—complex vision is widely considered a key catalyst for the Cambrian explosion, and only humans have many effective communicative language that none of other species have (coincidence? I don’t think so). More broadly, evolution (and learning) can be viewed as optimization under constraints. Concretely, my research focuses on:
 

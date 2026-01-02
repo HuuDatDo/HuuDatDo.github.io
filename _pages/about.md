@@ -27,17 +27,14 @@ latest_posts:
 ---
 
 
-I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), working closely with [Professor Wray Buntine](https://bayesian-models.org/) and [Professor Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/). I'm working as research intern under [Professor Dianbo Liu](https://www.cogai4sci.com/index.html). I had the opportunity to intern at the [Advanced Machine Intelligence Lab (AMI Lab) at KAIST](https://ami.kaist.ac.kr/) under the supervision of [Professor Tae Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh) and collaborated with [Professor Minsu Cho](https://cvlab.postech.ac.kr/~mcho/) from POSTECH. Additionally, I conducted research with [Professor Luu Anh Tuan](https://tuanluu.github.io/index.html) at NTU.  
-
+I am an undergraduate student at [VinUniversity](https://vinuni.edu.vn/), working closely with [Professor Wray Buntine](https://bayesian-models.org/) and [Professor Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/). I'm working as research intern under [Professor Dianbo Liu](https://www.cogai4sci.com/index.html). I had the opportunity to intern at the [Advanced Machine Intelligence Lab (AMI Lab) at KAIST](https://ami.kaist.ac.kr/) under the supervision of [Professor Tae Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh) and collaborated with [Professor Minsu Cho](https://cvlab.postech.ac.kr/~mcho/) from POSTECH.
 
 📩 Contact: <a href="mailto:22dat.dh@vinuni.edu.vn" target="_blank" rel="noopener noreferrer">22dat.dh[at]vinuni.edu.vn</a><br>
 <a href="https://scholar.google.com/citations?user=Se_fNmoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>&nbsp;&nbsp;
 
 
-**My research** focuses on understanding and reconstructing intelligence through computational methods. Specifically:
+I’m driven by a simple question: **How does intelligence emerge, and how can we reconstruct it computationally?** Vision and language seem especially central—complex vision is widely considered a key catalyst for the Cambrian explosion, and only humans have many effective communicative language that none of other species have (coincidence? I don’t think so). More broadly, evolution (and learning) can be viewed as optimization under constraints. Concretely, my research focuses on:
 
-- **Compositional understanding:** Humans understand the world with different modalities (language, vision, sound, touch, etc) in a compositional, synchronous manner. Can we build AI systems that can learn compositional, generalizable representations across different modal domains and perform many novel and complex tasks?
- - **Compositional generation:** Imagination and reasoning play a vital role in human-level intelligence. How can we develop AI systems that faithfully generate novel data in “imagination” and use it as mental simulation engines supporting understanding, learning, reasoning, and even complex generation itself?
- - **Efficient ML:** The human brain operates on an extremely low power supply and learns from data much more efficiently. Can we incorporate other natural priors such as symmetries, equivariance, and iterative inference into the AI system to learn more efficiently and still be scalable?
-
- I am also passionate about applying AI to tackle global challenges in robotics, physics, economics, climate change, and medical science. 
+- **Compositionality**: How can systems learn hierarchical, compositional representations that connect low-level visual concepts to high-level abstractions, and further compose across modalities in a synchronous manner?
+- **Grounding**: How can we build agents that acquire language by being grounded in perception, action, and shared goals — rather than treating language as disembodied text?
+- **Optimization**: Can intelligence be understood as compression-driven optimization that yields emergent compositional structure, and can we realize this in learning systems via iterative inference to achieve more data- and compute-efficient generalization?

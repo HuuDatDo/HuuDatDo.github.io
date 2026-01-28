@@ -39,4 +39,4 @@ I’m driven by a simple question: **How does intelligence emerge, and how can w
 - **Compositionality**: How can systems learn hierarchical, compositional representations that connect low-level visual concepts to high-level abstractions, and further compose across modalities in a synchronous manner?
 - **Grounding**: How can we build agents that acquire language by being grounded in perception, communication, shared goals, and pluralistic values, rather than treating language as disembodied text?
 - **Optimization**: Can intelligence be understood as lossless compression that yields emergent sparse compositional structure, and can we formalize compositional sparsity to make learning and generalization more efficient?
-- **Creativity**: The ultimate capability of intelligence—emerging at the intersection of compositionality, grounding, and optimization.
+- **Creativity**: The ultimate capability of intelligence, emerging at the intersection of compositionality, grounding, optimization.
